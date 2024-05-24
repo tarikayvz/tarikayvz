@@ -10,7 +10,7 @@ When I'm not immersed in coding, you can often find me exploring the latest tech
 
 I strongly believe in the importance of lifelong learning and strive to improve my skills and broaden my knowledge with each passing day.
 
-<a id="1" href="#" style="text-decoration: none;">Languages and Tools:</a>
+<h1>Languages and Tools:<h1>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50px">
 
