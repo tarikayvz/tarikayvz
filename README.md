@@ -22,7 +22,7 @@ I strongly believe in the importance of lifelong learning and strive to improve 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="50px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50px">
-<img src="" width="50px"><img src="" width="50px">
+<img src="https://assets-global.website-files.com/6047a9e35e5dc54ac86ddd90/63065002cd563e1cd1cead28_eaadfe64.png" width="50px">
 </div>
 
 <!---
