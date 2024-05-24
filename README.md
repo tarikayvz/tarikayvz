@@ -10,9 +10,9 @@ When I'm not immersed in coding, you can often find me exploring the latest tech
 
 I strongly believe in the importance of lifelong learning and strive to improve my skills and broaden my knowledge with each passing day.
 
+<a id="1" href="1">Languages and Tools:</a>
 
-Languages and Tools:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="auto">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50px">
 
 <!---
 tarikayvz/tarikayvz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
