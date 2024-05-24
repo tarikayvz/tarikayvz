@@ -12,9 +12,12 @@ I strongly believe in the importance of lifelong learning and strive to improve 
 
 <h1>Languages and Tools:<h1>
 
+<div style="display: flex; flex-direction: row; align-items: center;">
+
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50px">
-
+</div>
 
 <!---
 tarikayvz/tarikayvz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
