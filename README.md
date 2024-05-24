@@ -24,7 +24,7 @@ I strongly believe in the importance of lifelong learning and strive to improve 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50px">
 <img src="https://assets-global.website-files.com/6047a9e35e5dc54ac86ddd90/63065002cd563e1cd1cead28_eaadfe64.png" width="50px">
 </div>
-
+<br> <br>
 <!---
 tarikayvz/tarikayvz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
